@@ -2,11 +2,11 @@
 This repository provides discussion notes and resources for students in BU's ENG EK 125 course that I'm a graduate teaching assistant for. 
 
 **Discussion Section BA Notes:**
-- [Intro_array_operations.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Intro_array_operations.m) - introduction to vector and matrix operations
-- [plotting_examples.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/plotting_examples.m) - introduction to plotting in MATLAB (includes simple plots and subplot examples)
-- [pitch_n_switch.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/pitch_n_switch.m) - example of a switch statement to classify different baseball pitches
+- [Notes from 2020-09-04](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%201.pdf) - admin, intro to MATLAB, acsii, order of operations
+- [Notes from 2020-09-11](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%202.pdf) - vectors, matrices, generating random numbers, logical indexing
+- [Notes from 2020-09-18](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%203.pdf) - intro to scripts, functions, i/o, plotting
 
 **Discussion Section BE Notes:**
-- [Introduction to MATLAB Notes](https://github.com/leahgaeta/MATLAB-References/raw/master/Introduction%20to%20MATLAB%20Notes.pdf): covers ascii, vector/matrix operations, helpful for EK 125's first exam
-- [Extra (Advanced) MATLAB Notes](https://github.com/leahgaeta/MATLAB-References/raw/master/Extra%20(Advanced)%20MATLAB%20Notes.pdf): covers statistics, anonymous functions, text manipulation, helpful for EK 125's second exam
-- [sandlot.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/sandlot.m) - example script of creating a struct (batting order) and then writing the roster to a text file
+- [Notes from 2020-09-04](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%201.pdf) - admin, intro to MATLAB, acsii, order of operations
+- [Notes from 2020-09-11](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%202.pdf) - vectors, matrices, generating random numbers, logical indexing
+- [Notes from 2020-09-18](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%203.pdf) - intro to scripts, functions, i/o, plotting
