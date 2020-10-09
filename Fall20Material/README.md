@@ -8,6 +8,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2020-09-18](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%203.pdf) - intro to scripts, functions, i/o, plotting
 - [Notes from 2020-09-25](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%204.pdf) - intro to selection statements, for loops, nested for loops, and built-in is_____ () functions
 - [Notes from 2020-10-02](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%205.pdf) - review for Exam 1
+- [Notes from 2020-10-09](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%206.pdf) - persistent variables, modular programming, function stubs, debugging, live scripts
 
 #
 **Discussion Section BE Notes:**
@@ -16,10 +17,11 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2020-09-18](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%203.pdf) - intro to scripts, functions, i/o, plotting
 - [Notes from 2020-09-25](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%204.pdf) - intro to selection statements, for loops, nested for loops, and built-in is_____ () functions
 - [Notes from 2020-10-02](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%205.pdf) - review for Exam 1
+- [Notes from 2020-10-09](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%206.pdf) - persistent variables, modular programming, function stubs, debugging, live scripts
 
 #
 **Requested Example Scripts**
 - [Example of Subplotting using a For Loop & Selection Statements with Formatting](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Fall20Material/subplot_example.m)
 - [Examples of Vector & Matrix Operations](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Fall20Material/Intro_array_operations.m) - note here that I used a lot of pause() functions to make the program more user/learner-friendly but I generally don't recommend doing this in your programs!
-- [Example of Modular Programming with Local Functions](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/ex_mod_prog_baseball.m) - a baseball example of course!
-  - [Program with Function Stubs](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/prog_with_stubs.m) - same as the above program but with function stubs, which are useful for debugging
+- [Example of Modular Programming with Local Functions](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Fall20Material/ex_mod_prog_baseball.m) - a baseball example of course!
+  - [Program with Function Stubs](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Fall20Material/prog_with_stubs.m) - same as the above program but with function stubs, which are useful for debugging
