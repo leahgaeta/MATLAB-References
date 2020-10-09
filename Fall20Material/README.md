@@ -21,3 +21,5 @@ This repository provides discussion notes and resources for students in BU's ENG
 **Requested Example Scripts**
 - [Example of Subplotting using a For Loop & Selection Statements with Formatting](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Fall20Material/subplot_example.m)
 - [Examples of Vector & Matrix Operations](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/Fall20Material/Intro_array_operations.m) - note here that I used a lot of pause() functions to make the program more user/learner-friendly but I generally don't recommend doing this in your programs!
+- [Example of Modular Programming with Local Functions](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/ex_mod_prog_baseball.m) - a baseball example of course!
+  - [Program with Function Stubs](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/prog_with_stubs.m) - same as the above program but with function stubs, which are useful for debugging
