@@ -12,6 +12,7 @@ This repository includes example MATLAB scripts and notes for students in BU's E
 - [sandlot.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/sandlot.m) - example script of creating a struct (batting order) and then writing the roster to a text file
 - [print_sum_vec.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/print_sum_vec.m) - example function with use of a persistent variable (note that to clear a persistent variable, must type 'clear all')
 - [ex_mod_prog_baseball.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/ex_mod_prog_baseball.m) - example of modular programming in which a script calls local functions to prompt user input and plot offensive baseball stats
+  - [prog_with_stubs.m](https://raw.githubusercontent.com/leahgaeta/MATLAB-References/master/prog_with_stubs.m) - this is an example of the same above modular program but with function stubs
 
 #
 **The PDF notes in this repo:**
