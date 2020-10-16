@@ -9,6 +9,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2020-09-25](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%204.pdf) - intro to selection statements, for loops, nested for loops, and built-in is_____ () functions
 - [Notes from 2020-10-02](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%205.pdf) - review for Exam 1
 - [Notes from 2020-10-09](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BA%20Discussion%206.pdf) - persistent variables, modular programming, function stubs, debugging, live scripts
+- [Notes from 2020-10-16]() - cell arrays, structures (vectors & nested), text manipulation
 
 #
 **Discussion Section BE Notes:**
@@ -18,6 +19,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2020-09-25](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%204.pdf) - intro to selection statements, for loops, nested for loops, and built-in is_____ () functions
 - [Notes from 2020-10-02](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%205.pdf) - review for Exam 1
 - [Notes from 2020-10-09](https://github.com/leahgaeta/MATLAB-References/raw/master/Fall20Material/BE%20Discussion%206.pdf) - persistent variables, modular programming, function stubs, debugging, live scripts
+- [Notes from 2020-10-16]() - cell arrays, structures (vectors & nested), text manipulation
 
 #
 **Requested Example Scripts**
