@@ -22,4 +22,5 @@ This repository includes example MATLAB scripts and notes for students in BU's E
 
 #
 [**Resources for Students in my Spring 2021 Discussion Section**](https://github.com/leahgaeta/MATLAB-References/blob/master/Spring21Material/README.md)
+
 [**Resources for Students in my Fall 2020 Discussion Sections**](https://github.com/leahgaeta/MATLAB-References/blob/master/Fall20Material/README.md)
