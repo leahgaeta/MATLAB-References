@@ -21,4 +21,5 @@ This repository includes example MATLAB scripts and notes for students in BU's E
 - [Extra (Advanced) MATLAB Notes](https://github.com/leahgaeta/MATLAB-References/raw/master/Extra%20(Advanced)%20MATLAB%20Notes.pdf): covers statistics, anonymous functions, text manipulation, helpful for EK 125's second exam
 
 #
+[**Resources for Students in my Spring 2021 Discussion Section**](https://github.com/leahgaeta/MATLAB-References/blob/master/Spring21Material/README.md)
 [**Resources for Students in my Fall 2020 Discussion Sections**](https://github.com/leahgaeta/MATLAB-References/blob/master/Fall20Material/README.md)
