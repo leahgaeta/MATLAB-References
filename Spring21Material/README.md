@@ -25,3 +25,4 @@ Requested scripts will be seen here as the semester progresses.
 - [draw_rectangle.m](https://github.com/leahgaeta/MATLAB-References/blob/master/draw_rectangle.m) - a program that draws a rectangle using while and nested for loops
 - [ex_mod_prog_baseball.m](https://github.com/leahgaeta/MATLAB-References/blob/master/ex_mod_prog_baseball.m) - example of a modular program that uses a local function and a switch statement
 - [pitch_n_switch.m](https://github.com/leahgaeta/MATLAB-References/blob/master/pitch_n_switch.m) - a baseball program that incorporates user input, while loops, switch statements, and a simple selection statement
+- [sandlot.m](https://github.com/leahgaeta/MATLAB-References/blob/master/sandlot.m) - inspired by The Sandlot, a program that builds a roster using a vector of structs, nested structs, file i/o
