@@ -8,7 +8,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2021-02-12](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%203.pdf)
 - [Notes from 2021-02-19](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%204.pdf)
 - [Notes from 2021-02-26](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%205.pdf)
-- [Notes from 2021-03-05]()
+- [Notes from 2021-03-05](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%206.pdf)
 - [Notes from 2021-03-12]()
 - [Notes from 2021-03-19]()
 
