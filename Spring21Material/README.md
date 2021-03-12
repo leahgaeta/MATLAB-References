@@ -9,7 +9,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2021-02-19](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%204.pdf)
 - [Notes from 2021-02-26](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%205.pdf)
 - [Notes from 2021-03-05](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%206.pdf)
-- [Notes from 2021-03-12]()
+- [Notes from 2021-03-12](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%207.pdf) - note that I made an error in the dates! The extra Open Hours and Study Session will be on 3/17, BU Wellness Day will be 3/18, and the second Exam will be 3/19. The times listed are correct though.
 - [Notes from 2021-03-19]()
 
 #
