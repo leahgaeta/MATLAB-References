@@ -12,6 +12,11 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2021-03-12](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Discussion%207.pdf) - note that I made an error in the dates! The extra Open Hours and Study Session will be on 3/17, BU Wellness Day will be 3/18, and the second Exam will be 3/19. The times listed are correct though.
 - [Notes from 2021-03-19]()
 
+**Extra Notes:**
+- [Subplot Example](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Subplot%20Example.pdf) - a subplot example in the form of a function
+- [Text Manipulation Stuff to Know!](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Text%20Manipulation%20Stuff%20to%20Know.pdf) - need to know these for the second MATLAB exam... recommend practicing with them in the command window while studying
+- [Polyval & Polyfit](https://github.com/leahgaeta/MATLAB-References/raw/master/Spring21Material/Polyval%20%26%20Polyfit.pdf) - gotta know polyval() and polyfit() and how to use them, make a trend line, and why they are important!
+
 #
 **Requested Example Scripts**
 
